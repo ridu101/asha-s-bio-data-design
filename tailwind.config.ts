@@ -47,6 +47,13 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        cv: {
+          border: "hsl(var(--cv-border))",
+          heading: "hsl(var(--cv-heading))",
+          divider: "hsl(var(--cv-divider))",
+          icon: "hsl(var(--cv-icon))",
+          subtle: "hsl(var(--cv-subtle))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
