@@ -74,11 +74,11 @@ const Index = () => {
                 <p className="text-muted-foreground text-xs">Centre for the Rehabilitation of the Paralysed (CRP), Savar</p>
               </div>
               <div>
-                <p className="font-medium text-foreground">HSC — GPA 5.00 <span className="text-muted-foreground text-xs">(2019–2021)</span></p>
+                <p className="font-medium text-foreground">HSC — GPA 5.00 <span className="text-muted-foreground text-xs">(2019–2020)</span></p>
                 <p className="text-muted-foreground text-xs">Savar Government College</p>
               </div>
               <div>
-                <p className="font-medium text-foreground">SSC — GPA 5.00 <span className="text-muted-foreground text-xs">(2016–2017)</span></p>
+                <p className="font-medium text-foreground">SSC — GPA 5.00 <span className="text-muted-foreground text-xs">(2017–2018)</span></p>
                 <p className="text-muted-foreground text-xs">Glorious Model School and College, Gazipur</p>
               </div>
             </div>
@@ -119,6 +119,7 @@ const Index = () => {
 
             <SectionHeading icon={Phone} title="Contact Details" />
             <DetailRow label="Phone" value="01706-282480" />
+            <DetailRow label="Email" value="shailaakterasha295@gmail.com" />
 
             <Divider />
 
