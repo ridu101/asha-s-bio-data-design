@@ -1,4 +1,5 @@
-import profileImg from "@/assets/profile.jpg";
+import profileImg from "@/assets/edfs.jpeg";
+
 import {
   User, Calendar, Ruler, Weight, Droplets, Heart, MapPin, Home,
   GraduationCap, Briefcase, Sparkles, Users, Phone, Star, BookOpen
@@ -111,7 +112,7 @@ const Index = () => {
 
             <SectionHeading icon={Heart} title="Preferred Life Partner" />
             <p className="text-sm text-foreground leading-relaxed">
-              Educated, respectful, family-oriented, and supportive. Someone who values honesty, simplicity, and mutual understanding.
+              An educated, well-mannered, and family-oriented individual. A religious person who maintains regular prayers and knows and  follows Islamic principles in daily life. Should be caring, responsible, and supportive, with a mindset of building a peaceful and respectful family together.
             </p>
 
             <Divider />
@@ -121,19 +122,11 @@ const Index = () => {
 
             <Divider />
 
-            <SectionHeading icon={BookOpen} title="Professional Summary" />
-            <p className="text-sm text-muted-foreground leading-relaxed">
-              A dedicated and compassionate physiotherapy student with strong academic performance. Passionate about patient care, rehabilitation, and improving quality of life through modern therapeutic techniques.
-            </p>
+            
           </div>
         </div>
 
-        {/* Footer */}
-        <div className="px-8 py-4 bg-cv-subtle text-center">
-          <p className="text-xs text-muted-foreground tracking-wide">
-            BIODATA — SHAILA AKTER ASHA
-          </p>
-        </div>
+        
       </div>
     </div>
   );
