@@ -111,7 +111,7 @@ const Index = () => {
             <SectionHeading icon={Users} title="Family Details" />
             <DetailRow label="Father" value="Businessman" />
             <DetailRow label="Mother" value="Homemaker" />
-            <DetailRow label="Brother" value="Student" />
+            <DetailRow label="Siblings" value="One Younger Brother" />
 
             <Divider />
 
