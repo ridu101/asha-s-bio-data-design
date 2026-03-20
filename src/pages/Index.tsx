@@ -100,6 +100,10 @@ const Index = () => {
                 <span className="w-1.5 h-1.5 rounded-full bg-primary mt-1.5 flex-shrink-0" />
                 Traveling and exploring new places
               </li>
+              <li className="flex items-start gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-primary mt-1.5 flex-shrink-0" />
+                Planting trees
+              </li>
             </ul>
 
             <Divider />
@@ -107,6 +111,7 @@ const Index = () => {
             <SectionHeading icon={Users} title="Family Details" />
             <DetailRow label="Father" value="Businessman" />
             <DetailRow label="Mother" value="Homemaker" />
+            <DetailRow label="Brother" value="Student" />
 
             <Divider />
 
